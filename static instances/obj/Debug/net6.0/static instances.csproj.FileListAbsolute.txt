@@ -1,0 +1,15 @@
+D:\c# code\static instances\static instances\bin\Debug\net6.0\static instances.exe
+D:\c# code\static instances\static instances\bin\Debug\net6.0\static instances.deps.json
+D:\c# code\static instances\static instances\bin\Debug\net6.0\static instances.runtimeconfig.json
+D:\c# code\static instances\static instances\bin\Debug\net6.0\static instances.dll
+D:\c# code\static instances\static instances\bin\Debug\net6.0\static instances.pdb
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.csproj.AssemblyReference.cache
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.AssemblyInfoInputs.cache
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.AssemblyInfo.cs
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.csproj.CoreCompileInputs.cache
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.dll
+D:\c# code\static instances\static instances\obj\Debug\net6.0\refint\static instances.dll
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.pdb
+D:\c# code\static instances\static instances\obj\Debug\net6.0\static instances.genruntimeconfig.cache
+D:\c# code\static instances\static instances\obj\Debug\net6.0\ref\static instances.dll
